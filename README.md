@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+MakropoulosViewTool::Renderer.copyright 'Panagiotis Makropoulos', 'All rights reserved'
+```
 
 ## Development
 
